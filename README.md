@@ -238,7 +238,6 @@ bash
 samples/output/braille_output.json
 
 
-## Contributing
 
 Feel free to submit issues and enhancement requests!
 
