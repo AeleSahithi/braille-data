@@ -1,4 +1,4 @@
-# scripts/collect.py
+
 import os
 import sys
 import requests
