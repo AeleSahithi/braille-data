@@ -12,7 +12,7 @@ PATHS = {
     "structured_data": STRUCTURED_DATA_DIR  # Used in structure.py
 }
 
-
+# Supported file types for preprocessing and OCR
 SUPPORTED_FORMATS = [".txt", ".jpg", ".jpeg", ".png", ".pdf"]
 
 # OCR Configuration (can be extended)
