@@ -19,3 +19,4 @@ SUPPORTED_FORMATS = [".txt", ".jpg", ".jpeg", ".png", ".pdf"]
 OCR_CONFIG = {
     "tesseract_lang": "eng"  # or "hin" for Hindi
 }
+# minor edit
