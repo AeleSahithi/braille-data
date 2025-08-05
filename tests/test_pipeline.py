@@ -84,5 +84,6 @@ class TestBraillePipeline(unittest.TestCase):
         self.assertIn(".pdf", all_formats)
         self.assertIn(".docx", all_formats)
 
+
 if __name__ == '__main__':
     unittest.main() 
