@@ -1,0 +1,13 @@
+pytesseract
+opencv-python
+PyPDF2
+python-docx
+pandas
+openpyxl
+beautifulsoup4
+extract_msg
+python-pptx
+striprtf
+Pillow
+requests
+louis

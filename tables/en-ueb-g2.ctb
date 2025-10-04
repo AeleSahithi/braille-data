@@ -1,0 +1,73 @@
+# English UEB Grade 2 braille table
+# This is a simplified version of the UEB Grade 2 table
+
+# Basic alphabet
+a 1
+b 12
+c 14
+d 145
+e 15
+f 124
+g 1245
+h 125
+i 24
+j 245
+k 13
+l 123
+m 134
+n 1345
+o 135
+p 1234
+q 12345
+r 1235
+s 234
+t 2345
+u 136
+v 1236
+w 2456
+x 1346
+y 13456
+z 1356
+
+# Numbers
+1 1
+2 12
+3 14
+4 145
+5 15
+6 124
+7 1245
+8 125
+9 24
+0 245
+
+# Punctuation
+, 2
+; 23
+: 25
+. 3
+! 235
+? 236
+- 36
+" 236
+' 3
+( 126
+) 345
+/ 34
+@ 4
+# 3456
+$ 2346
+% 3456
+& 12346
++ 346
+= 2356
+< 126
+> 345
+_ 36
+~ 4
+^ 45
+
+# Special symbols
+space 0
+tab 0
+newline 0 
